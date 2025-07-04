@@ -34,3 +34,6 @@ O objetivo deste trabalho é desenvolver um sistema de controle baseado em lógi
   https://education.lego.com/en-us/support/mindstorms-ev3/building-instructions#robot
 
 # Observação: Este projeto tem fins acadêmicos e didáticos, visando demonstrar o uso de lógica fuzzy em sistemas embarcados educacionais.
+
+# Vídeo do trabalho disponível no YouTube: 
+https://github.com/beatriz-lecchi/Robo-LEGO-Seguidor-de-Linha-Fuzzy
